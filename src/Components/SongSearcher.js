@@ -67,7 +67,7 @@ const SongSearcher = () => {
   return (
   <div className="main_container">  
   <div className="home__content">
-    <h1 style={{color:"white"}}>Singers Biography</h1>
+    <h1 style={{color:"white"}}>Singer Biography</h1>
     <Container fluid = "md">  
         <Row>   
         <Col>
